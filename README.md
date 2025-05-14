@@ -1,4 +1,4 @@
 pyacademy
 =========
 
-Curso de Python - Orientação à objetos
+Curso de Python - Orientação a objetos
